@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Prapti Sawant</h1>
 <h3 align="center">Information Technology Engineer Graduate</h3>
-<img src=""C:\Users\Prapti\Downloads\scaler-create-impact.gif">
 
-<p align="left"> <img src="[https://komarev.com/ghpvc/?username=praptisawant&label=Profile%20views&color=0e75b6&style=flat](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FAnmol-Baranwal%2FCool-GIFs-For-GitHub&psig=AOvVaw00laCKdWC4-BnFcjxbQlPr&ust=1685005055406000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCPCnmKDLjf8CFQAAAAAdAAAAABBV)" alt="praptisawant" /> </p>
+<p align="left"> <img src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif" alt="praptisawant" /> </p>
 
 - 🔭 I’m currently working on [Sign-Language-Recognition-using-LSTM-to-Konkani](https://github.com/PraptiSawant/SignVani)
 
