@@ -1,5 +1,4 @@
-![logo](https://github.com/PraptiSawant/PraptiSawant/blob/main/Exploring%20the%20coding%20side%20of%20me.png)
-<h1 align="center">Hi 👋, I'm Prapti Sawant</h1>
+<h1 align="center">Hello 👋, I'm Prapti Sawant</h1>
 <h3 align="center">Information Technology Engineer Graduate</h3>
 <img align="right" width="400" src="https://thumbs.gfycat.com/GlisteningAggravatingJunebug-size_restricted.gif"/>
 
